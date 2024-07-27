@@ -23,7 +23,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://rekostudio.com" target="_blank">
-     <img src="!Logo.png" target="_blank" /> 
+     <img src="https://img.shields.io/badge/REKO%20STUDIO-STUDIO%23%23%23%23%24%24?style=for-the-badge&logoColor=%236F1A07&color=%236F1A07
+" target="_blank" /> 
   </a>
 </div>
 
