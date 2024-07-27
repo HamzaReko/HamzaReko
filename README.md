@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Ismail!;+I'm+Reko!;" />
@@ -23,11 +22,8 @@
   <a href="https://www.linkedin.com/in/hamza-ismail-14333a301/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/HamzaReko" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
     <a href="https://rekostudio.com" target="_blank">
-     <img src="!Logo.png" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="!Logo.png" target="_blank" /> 
   </a>
 </div>
 
@@ -55,12 +51,9 @@
 
 <br/>
 
-<hr/>
-
-<br/>
 
 <div align="center">
-<a href='https://ko-fi.com/rekostudio' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/rekostudio' target="_blank"><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
