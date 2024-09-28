@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Reko Studio**
+ 🔭 I’m currently working on **MY CAREER**
  
  🌱 I’m currently learning **Node.js, MongoDB, Express.js**
 
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/hamza-ismail-14333a301/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://rekostudio.com" target="_blank">
+    <a href="https://rekostudio.site" target="_blank">
      <img src="https://img.shields.io/badge/REKO%20STUDIO-STUDIO%23%23%23%23%24%24?style=for-the-badge&logoColor=%236F1A07&color=%236F1A07" target="_blank" /> 
   </a>
 </div>
